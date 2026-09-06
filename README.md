@@ -1,9 +1,9 @@
 # DAAI_N2.3
 
 # 1. Link Jira
-https://tientran141006.atlassian.net/?continue=https%3A%2F%2Ftientran141006.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZTY2MzlhYTZjZmIxNDdiNzhlOTJjMDIwNzBlM2U5MGYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 
 https://tientran141006.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+
 # 2. Danh sách thành viên
 | STT | MSSV | Họ tên |
 |---|---|---|
