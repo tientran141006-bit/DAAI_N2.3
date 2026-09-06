@@ -1,7 +1,7 @@
 # DAAI_N2.3
 
 # 1. Link Jira
-https://home.atlassian.com/o/72ae1048-853e-4bd9-ba48-cf73d62ffd8c/s/588b65f4-07f4-4a55-8ea6-13eec3355ecc/project/IXWOXSWG-1
+https://tientran141006.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=assignee%20IN%20(empty%2C%20712020%3A1a7adcaf-926e-47ff-b905-df5a20c0d0c1)&groupBy=none
 
 #2. Danh sách thành viên
 # 24732641 - Trần Võ Mỹ Tiên
