@@ -2,7 +2,7 @@
 
 # 1. Link Jira
 
-https://id.atlassian.com/invite/p/jira-software?id=zToI2KuWTgKDZsvgc9gkZg
+https://tientran141006.atlassian.net/?continue=https%3A%2F%2Ftientran141006.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiNmM0MGYwMGNiNjU5NGY3MjhjZDhmNzk5NzIxZmM4YTMiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9
 
 # 2. Danh sách thành viên
 | STT | MSSV | Họ tên |
