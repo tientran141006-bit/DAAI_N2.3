@@ -1,0 +1,201 @@
+﻿sales_employee_id,sales_employee_name,education_level,marital_status,years_experience
+1,Trần Anh Phúc,Đại học,Đã kết hôn,9
+2,Phạm Văn Mai,Đại học,Đã kết hôn,20
+3,Vũ Thị Trang,Sau đại học,Độc thân,10
+4,Đỗ Thanh Lan,Cao đẳng,Đã kết hôn,17
+5,Trần Gia Uyên,Đại học,Đã kết hôn,2
+6,Lê Anh Quân,Sau đại học,Đã kết hôn,8
+7,Bùi Anh Sơn,Trung cấp,Đã kết hôn,4
+8,Võ Thị Quân,Sau đại học,Đã kết hôn,14
+9,Phan Minh Vy,Cao đẳng,Đã kết hôn,8
+10,Phan Thị Phúc,Đại học,Độc thân,10
+11,Dương Quốc Dũng,Cao đẳng,Đã kết hôn,17
+12,Đỗ Ngọc Lan,Cao đẳng,Độc thân,17
+13,Phạm Thanh Oanh,Trung cấp,Độc thân,3
+14,Đỗ Anh Sơn,Đại học,Đã kết hôn,14
+15,Võ Quốc Mai,Trung cấp,Độc thân,12
+16,Phan Thanh Phúc,Đại học,Đã kết hôn,10
+17,Võ Thanh Nam,Cao đẳng,Đã kết hôn,12
+18,Đặng Văn Hùng,Đại học,Độc thân,9
+19,Dương Ngọc An,Cao đẳng,Độc thân,5
+20,Ngô Hữu Lan,Đại học,Đã kết hôn,14
+21,Dương Thanh Lan,Cao đẳng,Đã kết hôn,9
+22,Huỳnh Văn Cường,Đại học,Đã kết hôn,2
+23,Bùi Thị Vy,Đại học,Độc thân,11
+24,Vũ Quốc Dũng,Đại học,Độc thân,8
+25,Đặng Minh Yến,Sau đại học,Độc thân,2
+26,Huỳnh Đức Linh,Sau đại học,Độc thân,14
+27,Phạm Anh Hà,Cao đẳng,Đã kết hôn,15
+28,Trần Văn Lan,Cao đẳng,Đã kết hôn,19
+29,Bùi Minh Trang,Sau đại học,Độc thân,12
+30,Nguyễn Anh Linh,Đại học,Đã kết hôn,15
+31,Lê Gia Bình,Đại học,Độc thân,13
+32,Đỗ Văn Dũng,Trung cấp,Độc thân,10
+33,Bùi Thị Dũng,Sau đại học,Độc thân,12
+34,Dương Gia Lan,Trung cấp,Đã kết hôn,7
+35,Lê Đức Lan,Trung cấp,Đã kết hôn,10
+36,Hoàng Quốc Phúc,Đại học,Đã kết hôn,10
+37,Võ Quốc Trang,Đại học,Độc thân,6
+38,Hồ Quốc Hà,Sau đại học,Đã kết hôn,1
+39,Võ Thị Hùng,Đại học,Độc thân,12
+40,Trần Hữu Giang,Đại học,Đã kết hôn,14
+41,Hoàng Thị Oanh,Trung cấp,Độc thân,19
+42,Lê Gia Mai,Đại học,Đã kết hôn,8
+43,Dương Minh Giang,Đại học,Độc thân,20
+44,Ngô Hữu Yến,Trung cấp,Độc thân,19
+45,Hoàng Quốc Yến,Đại học,Đã kết hôn,20
+46,Hồ Ngọc Giang,Cao đẳng,Đã kết hôn,18
+47,Nguyễn Anh Hùng,Trung cấp,Độc thân,14
+48,Đỗ Anh Khánh,Cao đẳng,Đã kết hôn,6
+49,Nguyễn Thị Bình,Cao đẳng,Độc thân,17
+50,Huỳnh Gia Quân,Cao đẳng,Độc thân,18
+51,Dương Anh Hùng,Trung cấp,Đã kết hôn,20
+52,Dương Văn Dũng,Đại học,Độc thân,5
+53,Dương Thị Hà,Đại học,Đã kết hôn,11
+54,Phan Thị Uyên,Đại học,Đã kết hôn,17
+55,Hồ Thị Lan,Đại học,Đã kết hôn,3
+56,Dương Minh Cường,Sau đại học,Đã kết hôn,10
+57,Vũ Hữu Yến,Đại học,Độc thân,19
+58,Lê Thanh Trang,Đại học,Độc thân,3
+59,Nguyễn Đức Dũng,Đại học,Đã kết hôn,12
+60,Phan Quốc Oanh,Trung cấp,Độc thân,16
+61,Hoàng Ngọc Hà,Đại học,Độc thân,16
+62,Đỗ Thanh Vy,Đại học,Đã kết hôn,18
+63,Trần Minh Vy,Sau đại học,Đã kết hôn,9
+64,Hoàng Quốc Mai,Đại học,Độc thân,5
+65,Hồ Ngọc Yến,Đại học,Độc thân,3
+66,Huỳnh Thị Dũng,Trung cấp,Độc thân,17
+67,Ngô Đức Nam,Cao đẳng,Độc thân,4
+68,Phan Thị Mai,Cao đẳng,Độc thân,1
+69,Hồ Văn Lan,Đại học,Đã kết hôn,12
+70,Hồ Minh Yến,Sau đại học,Đã kết hôn,11
+71,Võ Văn Linh,Cao đẳng,Độc thân,4
+72,Đặng Gia Vy,Đại học,Độc thân,9
+73,Ngô Gia Uyên,Trung cấp,Đã kết hôn,3
+74,Phan Đức Phúc,Sau đại học,Đã kết hôn,2
+75,Phạm Đức Hùng,Đại học,Đã kết hôn,17
+76,Đặng Anh Quân,Đại học,Đã kết hôn,3
+77,Dương Ngọc Trang,Đại học,Độc thân,10
+78,Phạm Hữu Bình,Đại học,Đã kết hôn,3
+79,Đặng Hữu Hùng,Cao đẳng,Độc thân,8
+80,Phan Minh Dũng,Sau đại học,Độc thân,14
+81,Bùi Đức Uyên,Đại học,Độc thân,10
+82,Dương Ngọc Linh,Đại học,Đã kết hôn,14
+83,Đỗ Thanh Bình,Cao đẳng,Đã kết hôn,6
+84,Võ Thanh Mai,Đại học,Độc thân,18
+85,Đặng Văn Oanh,Sau đại học,Độc thân,15
+86,Bùi Thị Yến,Đại học,Đã kết hôn,20
+87,Phan Anh Yến,Cao đẳng,Đã kết hôn,16
+88,Bùi Gia Bình,Cao đẳng,Đã kết hôn,2
+89,Trần Gia An,Đại học,Đã kết hôn,12
+90,Bùi Anh Vy,Đại học,Đã kết hôn,16
+91,Lê Đức Trang,Trung cấp,Độc thân,3
+92,Vũ Thanh Quân,Đại học,Đã kết hôn,9
+93,Bùi Minh Quân,Cao đẳng,Đã kết hôn,18
+94,Đỗ Minh Mai,Trung cấp,Độc thân,7
+95,Trần Đức Nam,Đại học,Độc thân,9
+96,Lê Gia Vy,Đại học,Đã kết hôn,19
+97,Lê Minh Phúc,Sau đại học,Đã kết hôn,20
+98,Phan Thị Hà,Trung cấp,Đã kết hôn,18
+99,Vũ Gia An,Đại học,Độc thân,14
+100,Bùi Ngọc Lan,Đại học,Đã kết hôn,6
+101,Nguyễn Minh Mai,Trung cấp,Đã kết hôn,19
+102,Huỳnh Đức An,Đại học,Độc thân,18
+103,Nguyễn Thị Phúc,Đại học,Đã kết hôn,20
+104,Đặng Văn Phúc,Cao đẳng,Độc thân,18
+105,Phan Thị Uyên,Sau đại học,Độc thân,16
+106,Hoàng Thanh Vy,Trung cấp,Độc thân,1
+107,Hồ Thanh Yến,Đại học,Độc thân,17
+108,Phạm Văn Phúc,Đại học,Đã kết hôn,17
+109,Hồ Thanh Trang,Cao đẳng,Độc thân,17
+110,Trần Thị Phúc,Đại học,Đã kết hôn,11
+111,Trần Ngọc Lan,Cao đẳng,Đã kết hôn,4
+112,Nguyễn Hữu Bình,Đại học,Đã kết hôn,15
+113,Vũ Văn Bình,Sau đại học,Độc thân,13
+114,Phan Anh Lan,Cao đẳng,Độc thân,4
+115,Huỳnh Đức Nam,Đại học,Đã kết hôn,10
+116,Ngô Gia Lan,Cao đẳng,Đã kết hôn,3
+117,Phan Gia Mai,Sau đại học,Đã kết hôn,14
+118,Lê Thị Linh,Đại học,Đã kết hôn,11
+119,Trần Thị Yến,Cao đẳng,Độc thân,3
+120,Đặng Quốc Sơn,Đại học,Đã kết hôn,13
+121,Lê Quốc Trang,Cao đẳng,Đã kết hôn,5
+122,Ngô Văn Hà,Cao đẳng,Đã kết hôn,9
+123,Trần Gia Khánh,Đại học,Đã kết hôn,12
+124,Võ Thanh Oanh,Đại học,Đã kết hôn,7
+125,Lê Quốc Mai,Đại học,Độc thân,13
+126,Hồ Anh Nam,Đại học,Đã kết hôn,18
+127,Đỗ Gia Hà,Đại học,Độc thân,16
+128,Huỳnh Quốc An,Đại học,Độc thân,3
+129,Hồ Văn Bình,Cao đẳng,Độc thân,6
+130,Bùi Minh Bình,Đại học,Độc thân,15
+131,Bùi Ngọc Lan,Đại học,Độc thân,8
+132,Bùi Thị Mai,Sau đại học,Đã kết hôn,8
+133,Phan Anh Lan,Đại học,Đã kết hôn,7
+134,Đỗ Minh Vy,Cao đẳng,Độc thân,13
+135,Đỗ Gia Linh,Đại học,Độc thân,4
+136,Ngô Đức Yến,Sau đại học,Đã kết hôn,12
+137,Đặng Thị Mai,Trung cấp,Độc thân,9
+138,Hồ Anh An,Cao đẳng,Đã kết hôn,9
+139,Hoàng Thị Giang,Cao đẳng,Độc thân,19
+140,Lê Hữu Dũng,Đại học,Đã kết hôn,10
+141,Nguyễn Văn Hà,Đại học,Đã kết hôn,5
+142,Võ Thanh Lan,Trung cấp,Đã kết hôn,14
+143,Bùi Minh Quân,Đại học,Độc thân,11
+144,Hoàng Quốc Mai,Đại học,Đã kết hôn,16
+145,Phan Đức Hùng,Cao đẳng,Đã kết hôn,12
+146,Võ Quốc Trang,Đại học,Độc thân,11
+147,Dương Đức Oanh,Cao đẳng,Độc thân,13
+148,Hoàng Thị Hà,Đại học,Đã kết hôn,1
+149,Phan Minh Cường,Cao đẳng,Độc thân,12
+150,Lê Anh Mai,Đại học,Đã kết hôn,13
+151,Ngô Quốc Yến,Đại học,Đã kết hôn,16
+152,Hoàng Đức Oanh,Trung cấp,Đã kết hôn,16
+153,Vũ Anh Trang,Đại học,Đã kết hôn,9
+154,Phan Đức Cường,Đại học,Độc thân,20
+155,Dương Anh Oanh,Trung cấp,Độc thân,7
+156,Vũ Anh Yến,Đại học,Đã kết hôn,10
+157,Hoàng Đức Giang,Trung cấp,Đã kết hôn,9
+158,Phạm Gia Mai,Đại học,Đã kết hôn,17
+159,Phạm Văn Bình,Trung cấp,Độc thân,8
+160,Ngô Thanh Sơn,Sau đại học,Đã kết hôn,15
+161,Đỗ Anh Khánh,Cao đẳng,Độc thân,17
+162,Trần Thanh Giang,Đại học,Độc thân,18
+163,Phạm Thanh Mai,Sau đại học,Đã kết hôn,1
+164,Đặng Thanh Hà,Cao đẳng,Đã kết hôn,5
+165,Đỗ Ngọc Vy,Đại học,Đã kết hôn,6
+166,Trần Hữu Mai,Trung cấp,Độc thân,18
+167,Bùi Minh Lan,Sau đại học,Đã kết hôn,15
+168,Đặng Hữu Sơn,Đại học,Độc thân,9
+169,Lê Đức Uyên,Đại học,Đã kết hôn,15
+170,Vũ Đức Giang,Đại học,Độc thân,10
+171,Trần Văn Khánh,Đại học,Độc thân,5
+172,Dương Thanh Uyên,Sau đại học,Đã kết hôn,7
+173,Dương Anh Mai,Sau đại học,Độc thân,11
+174,Huỳnh Hữu Nam,Đại học,Đã kết hôn,7
+175,Dương Anh Giang,Cao đẳng,Đã kết hôn,12
+176,Hồ Hữu Hà,Sau đại học,Độc thân,7
+177,Nguyễn Hữu Bình,Đại học,Đã kết hôn,12
+178,Đặng Quốc Uyên,Đại học,Đã kết hôn,10
+179,Phạm Ngọc Phúc,Cao đẳng,Đã kết hôn,19
+180,Lê Gia Hùng,Sau đại học,Đã kết hôn,3
+181,Đỗ Gia Vy,Sau đại học,Độc thân,9
+182,Đỗ Thị Hà,Trung cấp,Độc thân,1
+183,Dương Quốc Hà,Trung cấp,Độc thân,11
+184,Hồ Thị Oanh,Đại học,Độc thân,8
+185,Phan Hữu Yến,Đại học,Độc thân,7
+186,Lê Văn Hà,Trung cấp,Đã kết hôn,3
+187,Trần Gia Hà,Đại học,Độc thân,10
+188,Võ Anh Linh,Cao đẳng,Độc thân,17
+189,Võ Hữu Vy,Cao đẳng,Đã kết hôn,10
+190,Đỗ Minh Giang,Đại học,Độc thân,19
+191,Hồ Anh Dũng,Trung cấp,Độc thân,4
+192,Nguyễn Đức Bình,Trung cấp,Độc thân,1
+193,Lê Thị Quân,Đại học,Độc thân,13
+194,Phạm Gia Phúc,Sau đại học,Độc thân,17
+195,Vũ Thanh Linh,Sau đại học,Đã kết hôn,4
+196,Hoàng Hữu Giang,Đại học,Đã kết hôn,19
+197,Ngô Đức Bình,Cao đẳng,Đã kết hôn,8
+198,Võ Anh Cường,Đại học,Độc thân,13
+199,Đặng Minh Trang,Cao đẳng,Độc thân,2
+200,Huỳnh Văn Quân,Đại học,Đã kết hôn,4
